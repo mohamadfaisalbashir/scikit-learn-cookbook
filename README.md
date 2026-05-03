@@ -1,6 +1,6 @@
 # scikit-learn Cookbook: Summary Notes
 
-<a style="width: 400px" href="https://www.amazon.com/scikit-learn-Cookbook-recipes-machine-learning/dp/1836644450"><img alt="scikit-learn Cookbook Cover" src="./cover.png" style="width: 400px; height: auto; padding: 10px;"></a>
+<a style="width: 400px" href="https://www.amazon.com/scikit-learn-Cookbook-recipes-machine-learning/dp/1836644450"><img alt="scikit-learn Cookbook Cover" src="./cover.jpg" style="width: 400px; height: auto; padding: 10px;"></a>
 
 
 **Original Authors:** Julian Avila & Trent Hauck
